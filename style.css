@@ -1,0 +1,16 @@
+:root {
+    font-size: 16px;
+}
+
+form input[name="success"] {
+    text-align: right;
+}
+
+form button {
+    display: block;
+    margin: 1rem 0;
+}
+
+div.output {
+    font-family: monospace;
+}
